@@ -46,7 +46,7 @@ and the
 
 # Algorithms
 
-There are two algorithms implemented in this project. The first one called dzip which solves the problem as a data compression problem, i.e. group events to a cluster if compressing them together give compression benefits compared to compressing them independently. This algorithm was published in the following paper:
+There are two algorithms implemented in this project. The first one called dzip which solves the problem as a data compression problem, i.e. grouping events to a cluster if compressing them together gives additional compression benefits compared to compress them independently. This algorithm was published in the following paper:
 
 Decomposing a Sequence into Independent Subsequences Using Compression Algorithms. Hoang Thanh Lam, Julia Kiseleva, Mykola Pechenizhky and Toon Calders, Idea workshop at SIGKDD 2014. poloclub.gatech.edu/idea2014/papers/p67-lam.pdf  
 
