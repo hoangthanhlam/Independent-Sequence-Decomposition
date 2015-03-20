@@ -103,7 +103,7 @@ the number if distinct event ids. For example, if my test data contains events w
 
 	The mentioned output contains three clusters [b, a], [c], [d] which means [b, a] has strong dependent and independent from events in the other clusters. It is important to notice our implementation does not cover overlapped clusters. Clusters are disjoint partition of the alphabet.
 
-# License:
+# License: FreeBSD
 
 Copyright (c) <2013>, <Hoang Thanh Lam>
 All rights reserved.
